@@ -1,27 +1,27 @@
 {
-  "name": "classx-liveboard",
-  "version": "1.0.0",
-  "api_version": "1.0.0",
-  "keywords": [
-    "ClassX",
-    "LiveBoard"
-  ],
-  "product": "LiveBoard",
-  "shortname": "LiveBoard",
-  "description": "Module to interact with ClassX LiveBoard",
-  "main": "index.js",
-  "manufacturer": "ClassX",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Pablo García <pablomorpheo@gmail.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bitfocus/companion-module-classx-liveboard.git"
-  },
-  "bugs": {
-    "url": "https://github.com/bitfocus/companion-module-classx-liveboard/issues"
-  },
-  "homepage": "https://github.com/bitfocus/companion-module-classx-liveboard#readme"
+	"name": "classx-liveboard",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"ClassX",
+		"LiveBoard"
+	],
+	"product": "LiveBoard",
+	"shortname": "LiveBoard",
+	"description": "Module to interact with ClassX LiveBoard",
+	"main": "index.js",
+	"manufacturer": "ClassX",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Pablo García <pablomorpheo@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-classx-liveboard.git"
+	},
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-classx-liveboard/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-classx-liveboard#readme"
 }
